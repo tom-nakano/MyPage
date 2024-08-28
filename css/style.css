@@ -18,7 +18,7 @@ h1 {
     color: red;
 }
 
-body {background-image: url("../sinobazu_pond.jpg"); background-size: cover;}
+body {background-image: url("./sinobazu_pond.jpg"); background-size: cover;}
 
 #main {
     position: absolute;  top: 100px; left: 100px;
